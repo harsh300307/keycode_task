@@ -1,0 +1,14 @@
+   body{
+    background-image: url(./image/back3.jpg);
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+   }
+   
+   #bird{
+        height: 200px;
+        width: 300px;
+        margin-top: 500px;
+    }
+
